@@ -3,6 +3,7 @@ package injextion.dao;
 public class DaoImpl  implements IDao{
     @Override
     public double getParam() {
-        return 5.5;
+        System.out.println(" donnets vient d'une capteur");
+        return 7.8;
     }
 }

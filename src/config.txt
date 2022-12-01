@@ -1,4 +1,4 @@
-injextion.dao.DaoImpl
+injextion.external.DaoImplV2
 injextion.metier.MetierImpl
 
 
